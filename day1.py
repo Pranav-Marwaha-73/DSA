@@ -1,4 +1,4 @@
-#Grom groq
+#From groq
 # Function to generate primes up to max_num using Sieve of Eratosthenes
 def sieve_of_eratosthenes(max_num):
     # Create a boolean array "is_prime[0..max_num]" and initialize all entries as true
